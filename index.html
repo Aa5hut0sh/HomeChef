@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HomeChef</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🍳 HomeChef</h1>
+        <p class="subtitle">Discover delicious recipes and save your favorites for later! 🍽️</p>
+        
+        <div class="main-content">
+            
+            <div class="search-section">
+                <div class="box">
+                    <h2>Search Recipes</h2>
+                    <div class="search-bar">
+                        <input type="text" class="search-input" placeholder="Search for recipes...">
+                        <button class="search-btn">Search</button>
+                    </div>
+                    
+                    <div class="results-area">
+                        <div class="placeholder-text">Search for recipes or select from Favourite to see results here...</div>
+                        
+                        
+                        <div class="recipe-item hide" >
+                            <div class="heart-icon">♥</div>
+                            <div class="recipe-title"></div>
+                            <div class="recipe-image">
+                                <img   style="background-size: cover;">
+                            </div>
+                            <p>Ingredient and Measurements :-</p>
+                            <div class="recipe-ingredients">
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                            <p>Process to prepare :-</p>
+                            <div class="recipe-description"></div>
+                        </div>
+                        
+                       
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="favorites-section">
+                <div class="box">
+                    <h2>My Favorites</h2>
+                    <div class="placeholder-text-fav" >No favorites yet. Click the heart icon on recipes to add them!</div>
+                    <div class="favorites-list hide">
+                       
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
