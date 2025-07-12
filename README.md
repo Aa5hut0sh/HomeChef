@@ -1,6 +1,6 @@
 # 🍳 HomeChef
 
-Welcome to **HomeChef** — a simple and intuitive web application that lets you search for delicious recipes and save your favorite meals for later. Powered by the [TheMealDB API](https://www.themealdb.com/), HomeChef brings a world of culinary inspiration to your fingertips.
+Welcome to **HomeChef** — a simple and intuitive web application that lets you search for delicious recipes and save your favorite meals for later. Powered by the [TheMealDB API](https://www.themealdb.com/), HomeChef brings a world of culinary inspiration to your fingertips so.
 
 🔗 **Live Site Link**: [https://aa5hut0sh.github.io/HomeChef/](https://aa5hut0sh.github.io/HomeChef/)
 
